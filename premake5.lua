@@ -1,4 +1,4 @@
-local projname = "MinimalImGui"
+local projname = "ImHook12"
 workspace(projname)
 architecture("x64")
 configurations({ "Debug", "Release", "MinSizeRel" })
