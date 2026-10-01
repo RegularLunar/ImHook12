@@ -9,10 +9,10 @@
 
 ### Features
 
-- DX12-only, x64, with no dependency on kiero or other hook libraries
-- MinHook-based
+- DX12, x64 Only
 - Minimalistic for easy building
 - ImGui v1.93.0
+- MinHook
 
 ---
 
