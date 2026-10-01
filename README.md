@@ -5,8 +5,6 @@
 ![Stars](https://img.shields.io/github/stars/RegularLunar/ImHook12?style=for-the-badge&color=f59e0b)
 ![Last Commit](https://img.shields.io/github/last-commit/RegularLunar/ImHook12?style=for-the-badge&color=6366f1)
 
----
-
 > [!CAUTION]
 > **Do not** use this software in **ANY** game with Anti-Cheat. This is not meant for stealth. I am not responsible for any damages to your account(s). You have been warned.
 
