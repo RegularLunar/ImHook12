@@ -11,7 +11,7 @@
 
 - DX12, x64 Only
 - Minimalistic for easy building
-- ImGui v1.93.0
+- ImGui v1.93.0 Docking
 - MinHook
 
 ---
