@@ -1,10 +1,8 @@
 # ImHook12
 > A minimal internal DirectX 12 overlay hook using MinHook and Dear ImGui
 
-![Release](https://img.shields.io/github/v/release/RegularLunar/ImHook12?style=for-the-badge&color=916cd9)
 ![License](https://img.shields.io/github/license/RegularLunar/ImHook12?style=for-the-badge&color=10b981)
 ![Stars](https://img.shields.io/github/stars/RegularLunar/ImHook12?style=for-the-badge&color=f59e0b)
-![Downloads](https://img.shields.io/github/downloads/RegularLunar/ImHook12/total?style=for-the-badge&color=0ea5e9&label=Downloads)
 ![Last Commit](https://img.shields.io/github/last-commit/RegularLunar/ImHook12?style=for-the-badge&color=6366f1)
 
 ---
