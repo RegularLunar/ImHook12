@@ -7,6 +7,11 @@
 
 ---
 
+> [!CAUTION]
+> **Do not** use this software in **ANY** game with Anti-Cheat. This is not meant for stealth. I am not responsible for any damages to your account(s). You have been warned.
+
+--
+
 ### Features
 
 - DX12, x64 Only
